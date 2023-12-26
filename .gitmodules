@@ -1,0 +1,6 @@
+[submodule "dashbord-admin"]
+	path = dashbord-admin
+	url = https://github.com/maha-mohammad01/dashbord-admin.git
+[submodule "server"]
+	path = server
+	url = https://github.com/username/repository.git
